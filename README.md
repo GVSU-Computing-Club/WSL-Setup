@@ -45,7 +45,7 @@ If the link above doesn't work, you want to open your Windows 10 store and insta
 Now open the Ubuntu App you just installed. It should be in your start menu or you can search "Ubuntu" with the search feature.
 You will first be greeted with a "Installing, this may take a few minutes..." message.
 
-After waiting you will be asked to enter a username and password. Take note that when typing in your password, it is *not* shown in the terminal. Make sure you remember this password, as you will need it to perform ```sudo``` commands. After you entering your username and password this close that window.
+After waiting you will be asked to enter a username and password. Take note that when typing in your password, it is *not* shown in the terminal. Make sure you remember this password, as you will need it to perform ```sudo``` commands. After entering your username and password this close that window.
 
 ![Open Ubuntu](./img/Step4.png)
 

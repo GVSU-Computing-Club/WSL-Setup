@@ -26,7 +26,6 @@ Now you want to scroll down an enable "Windows Subsystem for Linux"
 ![enable "Windows Subsystem for Linux"](./img/Step2.png)
 
 
-***
 <br/><br/><br/>
 ## Step 3: Install the Ubuntu app from the Windows 10 Store
 - **Ubuntu in the Windows 10 Store**: [Link](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6)
@@ -51,7 +50,7 @@ After waiting you will be asked to enter a username and password. Take note that
 
 
 <br/><br/><br/>
-## Step 6: Open your terminal and run the command from working directory ```wls```
+## Step 6: Open your terminal and run the command from working directory ```wsl```
 Now right click the start menu, and click Windows Powershell. 
 
 ![Open Windows Powershell](./img/Step6a.png)

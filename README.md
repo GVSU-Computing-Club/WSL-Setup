@@ -1,5 +1,5 @@
 # Setting up Windows Subsystem for Linux on Windows 10
-If you have MacOS or a Linux Distribution on your computer, you don't need to worry about this. You can already run UNIX commands. But if you have Windows installed here is a short-term solution to your problem. But this does not replace a full Linux System. It would be a good idea to look into [Dual-Booting](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557). 
+If you have MacOS or a Linux Distribution on your computer, you don't need to worry about this. You can already run UNIX commands. But if you have Windows installed here is a short-term solution to your problem. But this does not replace a full Linux System. It would be a good idea to look into [Dual-Booting](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557). If you want a nicer looking terminal for Windows, try [Cmder](http://cmder.net/) 
 
 > Pre-Requisites: Windows 10
 

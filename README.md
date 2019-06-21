@@ -27,8 +27,8 @@ Now you want to scroll down an enable "Windows Subsystem for Linux"
 
 
 <br/><br/><br/>
-## Step 3: Install the Ubuntu app from the Windows 10 Store
-- **Ubuntu in the Windows 10 Store**: [Link](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6)
+## Step 3: Install the Ubuntu app from the Microsoft Store
+- **Ubuntu in the Microsoft Store**: [Link](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6)
 
 If the link above doesn't work, you want to open your Windows 10 store and install "Ubuntu". It should be the first thing that pops up in the search bar. 
 
